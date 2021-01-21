@@ -4,6 +4,6 @@
   "description": "聊天室Demo",
   "dependencies": {
     "mime": "^2.4.5",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
